@@ -213,3 +213,6 @@ The experimental results are as below.
 3️⃣ Citation
 ---
 
+References
+-----
+Relevant operational configurations can be referenced at https://github.com/JudasDie/SOTS/blob/MOT/CSTrack/lib/tutorial/CSTrack/cstrack.md.
